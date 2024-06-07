@@ -8,9 +8,8 @@ port 8080
 
 User yang sudah di create :
 
-Admin : yosiagurning@gmail.com [pw(Gurning123)]
-employee : yudi@gmail.com [pw(admin123)]
-customer : benaya@gmail.com [pw(customer123)]
+Admin : hizkia@gmail.com [pw()]
+
 
 boleh dicoba
 
