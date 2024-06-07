@@ -8,5 +8,5 @@ port 8080
 
 User yang sudah di create :
 
-Admin : hizkia@gmail.com [pw()]
+Admin : hizkia@gmail.com
 
